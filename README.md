@@ -1,6 +1,6 @@
 # MachLearR
 
-We got these Files from Kaggle and uploaded them on our own repo in case of the origins are not useable for our project
+We uploaded these Datasheets to our own repo for the case that the origin ones dont work during our project.
 
 Origin of nbastats2018-2019.csv
 https://www.kaggle.com/schmadam97/nba-regular-season-stats-20182019
